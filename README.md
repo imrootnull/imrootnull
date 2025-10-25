@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🕶️ rootnull
 
-<!--
-**imrootnull/imrootnull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _“Access granted to nothing.”_
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+- 🧠 I’m **rootnull** — a web developer who builds systems that blend design, intelligence, and control.  
+- ⚡ Currently mastering **Next.js**, **Node.js**, and **cyber-aesthetic UI/UX**.  
+- 🐍 Learning **Python** for automation and AI integration.  
+- 🌍 Based in **México**, always connected to the void.
+
+---
+
+### 🧩 What I Do
+- 🔧 Frontend & Backend Development (React / Next.js / Express)  
+- 🕸️ API Integration & Automation  
+- 🔒 Security-minded system architecture  
+- 🌐 Tech projects under the **Neo** brand
+
+---
+
+### 📡 Contact Me
+- 📧 **erasmoramoshdez@neotechsolutions.mx**  
+- 💬 Or reach me via my digital void → [neotechsolutions.mx](https://neotechsolutions.mx)
+
+---
+
+### ⚙️ Stack Snapshot
+`HTML` • `CSS` • `JavaScript` • `React` • `Next.js` • `Node.js` • `MongoDB` • `Python`
+
+---
+
+> `> silence is my syntax.`  
+> `> running in /dev/null...`
